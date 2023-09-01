@@ -1,0 +1,6 @@
+D:\C#\UCSTGO-2962\Assignment\Assignment\bin\Assignment.dll.config
+D:\C#\UCSTGO-2962\Assignment\Assignment\bin\Assignment.dll
+D:\C#\UCSTGO-2962\Assignment\Assignment\bin\Assignment.pdb
+D:\C#\UCSTGO-2962\Assignment\Assignment\obj\Debug\Assignment.csprojResolveAssemblyReference.cache
+D:\C#\UCSTGO-2962\Assignment\Assignment\obj\Debug\Assignment.dll
+D:\C#\UCSTGO-2962\Assignment\Assignment\obj\Debug\Assignment.pdb
